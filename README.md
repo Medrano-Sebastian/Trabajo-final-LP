@@ -1,6 +1,10 @@
-# Trabajo-final-LP
-## Factores socioecónomicos y socioculturales que influyen en que Sebazz 
+# Trabajo-final-LP2
+## Extracción de tesis de las siguientes universidades
+- PUCP
+- UPC
+- UCV
+- UCS
 Autores:
-- Sebazz
-- El dios de beautiful soup
-- El dios de los zapallos
+- Sebastian Medrano
+- Andre Saul Juarez Castro 
+- Jairo Rojas
