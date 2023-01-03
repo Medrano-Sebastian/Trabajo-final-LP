@@ -1,6 +1,6 @@
 # Trabajo-final-LP2
 
-Autores:
-- el dios del GIT HUB
-- El dios de beautiful soup
-- El hijo de REGEX
+Integrantes:
+Jairo Gonzalo Rojas Melgarejo 20211829 
+Sebastian Rodrigo Medrano Alania 20211821
+Andre Juarez Castro 20200396
